@@ -8,3 +8,21 @@ stars1msutw89mk43k5m8ld83szhqmwpm6g6lwxlwhut | 2055.000000
 stars1rk774mfkcd4t3sdhdahyqt45lsx85maktd7hh4 | 2025.120000
 stars1alsq07jgux5h9lsppkryagaq0pvu2a3ae8g7qm | 2025.000000
 ```
+## Winners
+```
+ 1st: stars1lsekgcgt87p7w5pfy4a3sfngms06mj822jvlrn
+ 2nd: stars1unkh20cj6n4x20ywfgyl7pc76cjymtthh46evg
+ 3rd: stars1904h4pkdezcm7xcxrcum7cckr4wel3kad8m9r0
+ 4th: stars1vjymkucluukngrzyp3ykkdrj6mr6h7y0g9zl2a
+ 5th: stars10j90y2jvxzl0p5m2385zp74x464g76vch79wk2
+ 6th: stars1s2xvm5d6kv2mhnwuc4d3xpunqjq2leh9zgg563
+ 7th: stars12s7cfwfj3jc8f89cw8ws0jfaux37tyjwj76gl7
+ 8th: stars15sz727cdzsgepw2aqc5slq0qj43ladju4jp86f
+ 9th: stars1tq89g6urqpx7vu88tdx03ycfd3nsmmudtjcwee
+10th: stars1f9kp0zeuas5ptyd5xzyxlfmlmweqc99yju92lj
+11th: stars1puxgqdswyua6g2ugvwqxemcgc3c0r7kx77rtzy
+12th: stars1fxezdp3n2aja4rr6kv2kqr2r5qv27y9uu5ls30
+13th: stars16ugmtm5tlpty2kl0t0uum05qqpm0r5rfruvfej
+14th: stars1s9j4az29m0wgzeezsgjqkcqrjaezt5vw6qgvr4
+15th: stars1emqzfcz5hezpg3z6ueqkptadpyx5qfujuxhc4x
+```
